@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Ziad Hassan, a Full Stack Web Developer and AI Enthusiast.</h2>
+<h2 align="left">Hi 👋! My name is Ziad Hassan, and I'm a Full Stack Web Developer and IT student from Egypt.</h2>
 
 ###
 
@@ -56,30 +56,19 @@
 
 ### About Me
 
-Hello, I'm Ziad Hassan, a versatile Full Stack Web Developer with a strong foundation in Information Technology and a growing expertise in Artificial Intelligence. My journey into the tech world has been fueled by a passion for solving complex problems and a commitment to continuous learning.
 
-I specialize in Full Stack Development, where I combine creative front-end design with robust back-end architecture. My skill set includes:
+Hello, I’m Ziad Hassan, a dedicated Full Stack Web Developer with a focus on Information Technology. My journey into the tech world was driven by a strong enthusiasm for programming and a desire to innovate and create impactful web solutions.
 
-- **Web Technologies**: Proficient in PHP, HTML, CSS, JavaScript, Tailwind, Bootstrap, and Laravel.
-- **Database Management**: Experience in managing and optimizing databases using MySQL.
-- **API Development**: Skilled in developing APIs that enhance functionality and enable seamless integration across platforms.
+I have honed my skills in Full Stack Development, working with a variety of technologies such as PHP, HTML, CSS, JavaScript, Tailwind, Bootstrap, and Laravel. My experience spans designing intuitive user interfaces, developing robust back-end systems, managing databases with MySQL, and creating seamless API integrations.
 
-### Beyond Web Development
+In addition to web development, I have cultivated expertise in programming languages including C, C++, Java, and Python. My interests extend into the realms of Internet of Things (IoT) and Artificial Intelligence (AI), where I am continually expanding my knowledge and applying it to real-world challenges. My current studies are centered on Information Technology, with a special focus on enhancing my skills in AI, reflecting my commitment to staying at the forefront of technological advancements.
 
-My curiosity and drive extend beyond web technologies. I have cultivated skills in:
+One of the highlights of my academic journey is my graduation project, which focuses on developing an integrated smart city. This ambitious project aims to utilize AI for enhancing sustainability and improving the quality of urban living through innovations like self-driving cars, smart homes, and more.
 
-- **Programming Languages**: Expertise in C, C++, Java, and Python.
-- **Artificial Intelligence**: Actively exploring AI applications, particularly in IoT and smart city solutions, to create innovative and sustainable urban living environments.
-- **Embedded Systems**: Integrating software and hardware to deliver efficient and scalable solutions.
+I am always eager to embrace new challenges, collaborate on innovative projects, and contribute to the tech community. My passion for technology drives me to constantly refine my skills and stay ahead in this ever-evolving field.
 
-### Notable Projects
+### Let's Connect
 
-One of my proudest achievements is my work on creating an integrated smart city, a project that harnesses AI to enhance sustainability and urban living. This project exemplifies my commitment to using technology to solve real-world problems and improve the quality of life.
-
-### Let's Collaborate
-
-I thrive in dynamic environments where innovation and collaboration are key. Whether you're looking for a developer to bring your web application to life, a partner to explore cutting-edge AI solutions, or simply want to connect, I'm eager to hear from you.
-
-Explore my repositories to see the full scope of my work. Feel free to reach out for collaborations, project inquiries, or just to share ideas.
+Feel free to explore my portfolio, and don't hesitate to reach out for collaboration or more information. GitHub is not just a repository of my work—it's a platform where I connect with like-minded individuals, contribute to open-source projects, and showcase my dedication to continuous learning and innovation. Thank you for visiting!
 
 **Thank you for visiting my GitHub profile!**

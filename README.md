@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ziad Hassan, and I'm a Full Stack Web Developer and IT student from Egypt.</h2>
+<h2 align="left">Hi 👋! I'm Ziad Hassan, a Full Stack Web Developer and AI Enthusiast.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://storyset.com/illustration/coding/cuate?share=86012"  />
 
 ###
 
@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+  <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
@@ -56,14 +56,30 @@
 
 ### About Me
 
-Hello, I’m Ziad Hassan, a passionate Full Stack Web Developer currently studying Information Technology at Borg El Arab University of Technology. My journey into technology began with a deep-rooted enthusiasm for programming and a vision to craft innovative web solutions.
+Hello, I'm Ziad Hassan, a versatile Full Stack Web Developer with a strong foundation in Information Technology and a growing expertise in Artificial Intelligence. My journey into the tech world has been fueled by a passion for solving complex problems and a commitment to continuous learning.
 
-Through my studies, I've developed a strong foundation in Full Stack Development, working with technologies such as PHP, HTML, CSS, JavaScript, Tailwind, Bootstrap, and Laravel. I excel in designing and implementing web projects, whether it's creating engaging user interfaces or developing robust back-end systems. Additionally, I manage databases using MySQL and develop APIs to enhance functionality and integration.
+I specialize in Full Stack Development, where I combine creative front-end design with robust back-end architecture. My skill set includes:
 
-Beyond web development, I have experience with programming languages such as C, C++, Java, and Python. My interest extends into the fields of Internet of Things (IoT) and Artificial Intelligence (AI), where I explore how these technologies can revolutionize our daily lives. My academic and self-learning endeavors continually drive me to stay at the cutting edge of technology.
+- **Web Technologies**: Proficient in PHP, HTML, CSS, JavaScript, Tailwind, Bootstrap, and Laravel.
+- **Database Management**: Experience in managing and optimizing databases using MySQL.
+- **API Development**: Skilled in developing APIs that enhance functionality and enable seamless integration across platforms.
 
-I’m particularly proud of my graduation project, which focuses on creating an integrated smart city. This project aims to leverage AI to enhance sustainability and improve urban living through innovations like self-driving cars and smart homes.
+### Beyond Web Development
 
-In addition to my technical skills, I bring strong problem-solving abilities, flexibility, and effective teamwork to the table. I thrive under pressure and am always eager to tackle new challenges and contribute to groundbreaking tech projects.
+My curiosity and drive extend beyond web technologies. I have cultivated skills in:
 
-Feel free to explore my portfolio, and don’t hesitate to reach out for collaboration or further information. Thank you for visiting!
+- **Programming Languages**: Expertise in C, C++, Java, and Python.
+- **Artificial Intelligence**: Actively exploring AI applications, particularly in IoT and smart city solutions, to create innovative and sustainable urban living environments.
+- **Embedded Systems**: Integrating software and hardware to deliver efficient and scalable solutions.
+
+### Notable Projects
+
+One of my proudest achievements is my work on creating an integrated smart city, a project that harnesses AI to enhance sustainability and urban living. This project exemplifies my commitment to using technology to solve real-world problems and improve the quality of life.
+
+### Let's Collaborate
+
+I thrive in dynamic environments where innovation and collaboration are key. Whether you're looking for a developer to bring your web application to life, a partner to explore cutting-edge AI solutions, or simply want to connect, I'm eager to hear from you.
+
+Explore my repositories to see the full scope of my work. Feel free to reach out for collaborations, project inquiries, or just to share ideas.
+
+**Thank you for visiting my GitHub profile!**

@@ -47,7 +47,7 @@
 </div>
 
 ###
-![snake animation](https://github.com/<seu Ziad-Abaza>/<seu Ziad-Abaza>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Ziad-Abaza/Ziad-Abaza/blob/output/github-contribution-grid-snake2.svg)
 ### About Me
 
 Hello, I’m Ziad Hassan, a dedicated Full Stack Web Developer with a focus on Information Technology. My journey into the tech world was driven by a strong enthusiasm for programming and a desire to innovate and create impactful web solutions.

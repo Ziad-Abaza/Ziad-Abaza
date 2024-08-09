@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<seu Ziad-Abaza>/<seu Ziad-Abaza>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/Ziad-Abaza/Ziad-Abaza/blob/output/snake.svg)
 ###
 
 ### About Me

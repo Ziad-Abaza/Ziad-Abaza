@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ziad Hassan, and I'm a Full Stack Web Developer and IT student from Egypt.</h2>
+<h2 align="left">Hi 👋! My name is Ziad Hassan, and I'm a Full Stack Web Developer with a focus on Information Technology.</h2>
 
 ###
 
@@ -48,14 +48,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
 ### About Me
-
 
 Hello, I’m Ziad Hassan, a dedicated Full Stack Web Developer with a focus on Information Technology. My journey into the tech world was driven by a strong enthusiasm for programming and a desire to innovate and create impactful web solutions.
 
@@ -69,6 +62,6 @@ I am always eager to embrace new challenges, collaborate on innovative projects,
 
 ### Let's Connect
 
-Feel free to explore my portfolio, and don't hesitate to reach out for collaboration or more information. GitHub is not just a repository of my work—it's a platform where I connect with like-minded individuals, contribute to open-source projects, and showcase my dedication to continuous learning and innovation. Thank you for visiting!
+Feel free to explore my portfolio, and don't hesitate to reach out for collaboration or more information. GitHub is not just a repository of my work—it's a platform where I connect with like-minded individuals, contribute to open-source projects, and showcase my dedication to continuous learning and innovation.
 
 **Thank you for visiting my GitHub profile!**

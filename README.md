@@ -20,8 +20,6 @@
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Abaza&theme=dracula&hide_border=false" alt="GitHub Streak" height="150" />
   
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ziad-Abaza&theme=dracula&hide_border=true" alt="GitHub Activity Graph" height="150" />
 </div>
 
 ## 🛠️ Technologies & Tools

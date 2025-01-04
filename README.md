@@ -11,8 +11,17 @@
 ###
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Abaza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ziad-Abaza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Abaza&theme=dracula&hide_border=false" alt="GitHub Streak" height="150" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ziad-Abaza&theme=dracula&hide_border=true" alt="GitHub Activity Graph" height="150" />
 </div>
 
 ## 🛠️ Technologies & Tools

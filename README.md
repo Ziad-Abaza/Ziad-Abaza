@@ -1,8 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Ziad+Hassan;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Ziad+Hassan;" />
 </h1>
 
-<h2 align="left">I'm a Full Stack Web Developer and IT student from Egypt.</h2>
+<h2 align="center">Full Stack Developer | AI Enthusiast | IoT Innovator</h2>
+
+<p align="center">
+    🌍 From Egypt | 💻 Passionate about technology and problem-solving
+</p>
 
 ###
 

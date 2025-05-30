@@ -74,14 +74,8 @@ Currently pursuing a degree in **Information Technology**, I’m focused on buil
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Abaza&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Abaza&layout=compact&theme=dracula" height="150" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Abaza&theme=dracula" height="150" />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
@@ -94,9 +88,4 @@ Currently pursuing a degree in **Information Technology**, I’m focused on buil
 
 ---
 
-Thank you for visiting my profile! Here, you’ll find my ongoing projects, experiments, and contributions. Follow along for updates and breakthroughs in AI, IoT, and full-stack development.
-
----
-
-
- 
+Feel free to reach out if you want to discuss ideas, collaborate on projects, or just chat about technology and innovation. I’m always open to new opportunities and learning experiences.

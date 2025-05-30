@@ -1,11 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Ziad+Hassan;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Ziad+Hassan" />
 </h1>
 
-<h2 align="center">Full Stack Developer | AI Enthusiast | IoT Innovator</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%2300C853?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-%23F44336?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT%20Innovator-%23007ACC?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
 
 <p align="center">
-  🌍 Alexandria, Egypt | 💻 Passionate about technology and problem-solving
+  🌍 Based in Egypt | 💡 Passionate about Technology, AI, and Smart Cities
 </p>
 
 ---
@@ -29,9 +33,9 @@ Currently pursuing a degree in **Information Technology**, I’m focused on buil
 | [🏙️ Smart City](https://github.com/Ziad-Abaza/Smart-City-AI) | Graduation project using AI for sustainable urban living. | IoT, Python, TensorFlow, RPI, ML, RL |
 | [🎮 Tic-Tac-Toe AI](https://github.com/Ziad-Abaza/Tic-Tac-Toe-AI-Comparison) | A smart game player using Deep Neural Networks. | TensorFlow, Keras, RL, Flask |
 | [🛒 E-Commerce Platform](https://github.com/Ziad-Abaza/E-Commerce-Laravel-Vue) | Full stack online store with Laravel + Vue.js. | Laravel, Vue, Tailwind, Axios |
-| [🚗 Lane Navigator](https://github.com/Ziad-Abaza/lane-navigator-AutonomousCar) | Autonomous car lane detection and navigation system. | OpenCV, Python, AI |
+| [🚗 Autonomous car](https://github.com/Ziad-Abaza/lane-navigator-AutonomousCar) | Autonomous car lane detection and navigation system. | OpenCV, Python, AI |
 | [🏠 Smart Home Assistant](https://github.com/Ziad-Abaza/Smart-Home-Assistant) | Voice-controlled smart home system. | Python, IoT, Raspberry Pi |
-| [🧭 Indoor Navigation](https://github.com/Ziad-Abaza/Indoor-Smart-Navigation) | Indoor navigation system using smart sensors. | IoT, Embedded Systems, RL |
+| [🧭 Indoor Navigation](https://github.com/Ziad-Abaza/Indoor-Smart-Navigation) | Indoor navigation system using IOT & RL. | IoT, Embedded Systems, RL |
 | [🔌 Microcontroller Kit](https://github.com/Ziad-Abaza/Microcontroller-Learning-Kit) | Educational kit for learning microcontrollers. | Arduino, C/C++ |
 
 > ✨ You can find more on my [portfolio](https://ziad-abaza.github.io/Portfolio/) or explore my [repositories](https://github.com/Ziad-Abaza?tab=repositories)!
@@ -76,12 +80,6 @@ Currently pursuing a degree in **Information Technology**, I’m focused on buil
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Abaza&theme=dracula" height="150" />
-</p>
-
-## 🗓️ Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ziad-Abaza&theme=dracula&hide_border=true" height="150" />
 </p>
 
 ---

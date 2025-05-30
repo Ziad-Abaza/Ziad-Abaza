@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 Hello! I’m **Ziad Hassan**, a passionate **Full Stack Web Developer**, **AI Enthusiast**, and **IoT Innovator**.  
-Currently pursuing a degree in **Information Technology** at **Borg El Arab Technological University**, I focus on building real-world applications that blend the power of the **web**, **artificial intelligence**, and **embedded systems**.
+Currently pursuing a degree in **Information Technology**, I’m focused on building real-world applications that blend the power of the **web**, **artificial intelligence**, and **embedded systems**.
 
 - 💻 I create full stack applications using Laravel, Vue.js, MySQL, and REST APIs.  
 - 🤖 I build smart systems using AI & deep learning with TensorFlow, Keras, and OpenCV.  
@@ -26,12 +26,12 @@ Currently pursuing a degree in **Information Technology** at **Borg El Arab Tech
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [🏙️ Smart City](https://github.com/Ziad-Abaza/Smart-City-AI) | Graduation project using AI for sustainable urban living. | AI, IoT, Python, TensorFlow, Arduino |
-| [🎮 Tic-Tac-Toe AI](https://github.com/Ziad-Abaza/Tic-Tac-Toe-AI-Comparison) | A smart game player using Deep Neural Networks. | TensorFlow, Keras, Flask |
+| [🏙️ Smart City](https://github.com/Ziad-Abaza/Smart-City-AI) | Graduation project using AI for sustainable urban living. | IoT, Python, TensorFlow, RPI, ML, RL |
+| [🎮 Tic-Tac-Toe AI](https://github.com/Ziad-Abaza/Tic-Tac-Toe-AI-Comparison) | A smart game player using Deep Neural Networks. | TensorFlow, Keras, RL, Flask |
 | [🛒 E-Commerce Platform](https://github.com/Ziad-Abaza/E-Commerce-Laravel-Vue) | Full stack online store with Laravel + Vue.js. | Laravel, Vue, Tailwind, Axios |
 | [🚗 Lane Navigator](https://github.com/Ziad-Abaza/lane-navigator-AutonomousCar) | Autonomous car lane detection and navigation system. | OpenCV, Python, AI |
 | [🏠 Smart Home Assistant](https://github.com/Ziad-Abaza/Smart-Home-Assistant) | Voice-controlled smart home system. | Python, IoT, Raspberry Pi |
-| [🧭 Indoor Navigation](https://github.com/Ziad-Abaza/Indoor-Smart-Navigation) | Indoor navigation system using smart sensors. | IoT, Embedded Systems |
+| [🧭 Indoor Navigation](https://github.com/Ziad-Abaza/Indoor-Smart-Navigation) | Indoor navigation system using smart sensors. | IoT, Embedded Systems, RL |
 | [🔌 Microcontroller Kit](https://github.com/Ziad-Abaza/Microcontroller-Learning-Kit) | Educational kit for learning microcontrollers. | Arduino, C/C++ |
 
 > ✨ You can find more on my [portfolio](https://ziad-abaza.github.io/Portfolio/) or explore my [repositories](https://github.com/Ziad-Abaza?tab=repositories)!
@@ -65,12 +65,40 @@ Currently pursuing a degree in **Information Technology** at **Borg El Arab Tech
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Abaza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Abaza&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Abaza&layout=compact&theme=dracula" height="150" />
+</p>
 
-::contentReference[oaicite:4]{index=4}
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Abaza&theme=dracula" height="150" />
+</p>
+
+## 🗓️ Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ziad-Abaza&theme=dracula&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:zeyad.h.abaza@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ziad-h-abaza-82276331b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ziad-abaza.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23292929?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
+
+---
+
+Thank you for visiting my profile! Here, you’ll find my ongoing projects, experiments, and contributions. Follow along for updates and breakthroughs in AI, IoT, and full-stack development.
+
+---
+
+
  

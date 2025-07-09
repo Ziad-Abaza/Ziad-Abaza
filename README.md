@@ -16,13 +16,17 @@
 
 ## 🧠 About Me
 
-Hello! I’m **Ziad Hassan**, a passionate **Full Stack Web Developer**, **AI Enthusiast**, and **IoT Innovator**.  
-Currently pursuing a degree in **Information Technology**, I’m focused on building real-world applications that blend the power of the **web**, **artificial intelligence**, and **embedded systems**.
+Hey, I’m Ziad Hassan — a web developer passionate about building real-world solutions using Laravel, Vue.js, and modern web technologies.
 
-- 💻 I create full stack applications using Laravel, Vue.js, MySQL, and REST APIs.  
-- 🤖 I build smart systems using AI & deep learning with TensorFlow, Keras, and OpenCV.  
-- 🌐 I love contributing to tech communities and promoting digital innovation through the **IT Club** I co-founded.  
-- 🌆 My **graduation project** is an integrated **Smart City** powered by AI, self-driving cars, and sustainable technologies.
+Currently, I’m studying Information Technology, with a strong interest in integrating AI and IoT into practical applications that make a real impact.
+
+Over the past few years, I’ve worked on diverse projects, including e-commerce platforms, smart attendance systems, and deep learning models for games and image recognition.
+
+I’m also a co-founder of the IT Club at my university — a community built to help students connect, collaborate, and grow in tech.
+
+Right now, I’m focused on my graduation project: an AI-powered smart city that blends intelligent systems with sustainable technology — a vision I’m excited to bring to life.
+
+Always learning, always building, and always open to new challenges.
 
 ---
 
